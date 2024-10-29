@@ -16,7 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "newman": "^5.3.2",
-    "newman-reporter-dashboard": "^1.0.1",
+    "newman-reporter-htmlextra": "^6.0.0",
     "yaml-server": "^1.10.0"
   }
 }
